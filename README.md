@@ -1,4 +1,5 @@
 ### Hi there 👋
+I have just got a Bachlor with Honours Degree in CS and looking for a job in NZ.
 
 <!--
 **mahebei/mahebei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
